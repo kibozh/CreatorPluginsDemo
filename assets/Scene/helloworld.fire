@@ -21,7 +21,7 @@
     "_active": true,
     "_components": [],
     "_prefab": null,
-    "_id": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "_id": "579a124a-f16b-412b-aa2b-6a319c37580e",
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
@@ -45,7 +45,7 @@
     "_globalZOrder": 0,
     "_opacityModifyRGB": false,
     "groupIndex": 0,
-    "autoReleaseAssets": false
+    "autoReleaseAssets": null
   },
   {
     "__type__": "cc.Node",
@@ -214,7 +214,7 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "410fb916-8721-4663-bab8-34397391ace7"
+      "__uuid__": "76a9dde5-e080-4fea-9f60-56c1eae64990"
     },
     "_type": 1,
     "_sizeMode": 0,
@@ -292,7 +292,7 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "31bc895a-c003-4566-a9f3-2e54ae1c17dc"
+      "__uuid__": "9c3213be-3019-4d1e-814d-737911fdf897"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -818,7 +818,7 @@
     "_fitHeight": true
   },
   {
-    "__type__": "280c3rsZJJKnZ9RqbALVwtK",
+    "__type__": "66d698jEAtKeqaG3wvylBtj",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -837,7 +837,7 @@
     "text": "Creator插件Demo!"
   },
   {
-    "__type__": "6047fMICENGta6BcrdA36fR",
+    "__type__": "380f9SoZ8JF26Ry0h3Er+t5",
     "_name": "",
     "_objFlags": 0,
     "node": {
